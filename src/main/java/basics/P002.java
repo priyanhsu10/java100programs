@@ -9,7 +9,7 @@ public static void main(String[] args) {
 
   Scanner sc= new Scanner(System.in);
   System.out.println("Enter string ,program print charector and its asci value:");
-  String s=sc.nextLine();
+  String s=sc.next();
   char[] stringtochar= s.toCharArray();
    
     for(int i =0; i<stringtochar.length;i++) {
