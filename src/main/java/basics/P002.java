@@ -17,6 +17,6 @@ public static void main(String[] args) {
     	System.out.println(stringtochar[i]+ " : "+(int)stringtochar[i]);
     }
 
-	
+	sc.close();
 }
 }

@@ -16,5 +16,6 @@ public class P020 {
 		}
 
 		System.out.println(n +" power of " + pow + " is " + result);
+		sc.close();
 	}
 }

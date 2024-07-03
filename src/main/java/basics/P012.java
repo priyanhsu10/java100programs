@@ -24,6 +24,7 @@ public class P012 {
 		} else {
 			System.out.println(n + " is not prime number ");
 		}
+		sc.close();
 	}
 
 }

@@ -20,6 +20,7 @@ public class P014 {
 		}
 		int lcm = a * b / gcd;
 		System.out.println("lcm of " + a + " and " + b + " is " + lcm);
+		sc.close();
 	}
 
 }

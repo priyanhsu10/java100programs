@@ -17,6 +17,7 @@ public class P018 {
 		}
 		
 		System.out.println("sum of digit is ="+ result);
+		sc.close();
 	}
 
 }

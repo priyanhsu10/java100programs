@@ -16,7 +16,7 @@ public class P008 {
 			}
 		
 		System.out.println("factoriial of "+n+ " is "+result);
-		
+		sc.close();
 	}
 
 }

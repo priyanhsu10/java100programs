@@ -17,7 +17,7 @@ public class P007 {
 	  else {
 		  System.out.println(year +" is not lear year");
 	  }
-		
+		sc.close();
 	}
 
 }

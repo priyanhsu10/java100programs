@@ -18,5 +18,6 @@ public class P017 {
 		 n=n/2;
 	 }
 	 System.out.println(sb.reverse().toString());
+	 sc.close();
 	}
 }

@@ -18,7 +18,7 @@ public static void main(String[] args) {
 		}
 	}
 	System.out.println("GCD of "+a +" and "+ b +" is "+ gcd);
-	
+	sc.close();
 }
 
 }

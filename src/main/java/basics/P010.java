@@ -21,5 +21,6 @@ public class P010 {
        }
       int r= Integer.valueOf(reverse.toString());
       System.out.println("reverse number = "+r);
+	  sc.close();
 	}
 }

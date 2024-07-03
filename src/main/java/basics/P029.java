@@ -26,6 +26,7 @@ public class P029 {
 		}
 		
 		System.out.println("frequency of number "+num+ " is "+frequncey);
+		sc.close();
 	}
 	
 

@@ -18,6 +18,7 @@ public class P016 {
 			
 		}
 		System.out.println(s +" in decimal="+ result);
+		sc.close();
 	}
 
 }

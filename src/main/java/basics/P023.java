@@ -17,6 +17,7 @@ public class P023 {
 			System.out.println("enter 2 numbers");
 			int a = sc.nextInt();
 			int b = sc.nextInt();
+	
 			switch (op) {
 			case 1:
 				System.out.println("addtion of " + a + " and " + b + "=" + (a + b));
@@ -44,9 +45,9 @@ public class P023 {
 				r = false;
 
 			}
-
+			
 		}
-
+		sc.close();
 	}
 
 	private static void printOptions() {

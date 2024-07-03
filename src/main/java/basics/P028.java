@@ -26,7 +26,7 @@ public class P028 {
 	   }else {
 		   System.out.println("not present");
 	   }
-		
+	   sc.close();
 	}
 
 }

@@ -16,6 +16,7 @@ public class P003 {
 		else {
 			System.out.println(n +" is Odd");
 		}
+		sc.close();
 	}
 
 }

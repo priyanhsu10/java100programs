@@ -27,5 +27,6 @@ public class P011 {
 		} else {
 			System.out.println(backup + " is not palidrome");
 		}
+		sc.close();
 	}
 }

@@ -26,6 +26,6 @@ public class P019 {
 		} else {
 			System.out.println(backup + " is not Armstrong number");
 		}
-
+sc.close();
 	}
 }

@@ -28,6 +28,7 @@ public class P005 {
 				System.out.println(c+" is largest");
 			}
 		}
+		sc.close();
 	}
 
 }

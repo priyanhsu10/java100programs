@@ -12,6 +12,7 @@ public static void main(String[] args) {
 	
 	if(count<2) {
 		System.out.println("Enter  greater than 2 ");
+		sc.close();
 		return;
 	}
 	long pre=0;
@@ -26,6 +27,6 @@ public static void main(String[] args) {
 		pre=current;
 		current=next;
 	}
-	
+	sc.close();
 }
 }
